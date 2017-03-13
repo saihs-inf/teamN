@@ -30,6 +30,9 @@ Slack 是一套團體之間的「溝通平台」，與大家常用的 LINE 聊�
 * 速度快
 
 比如說 WhatsApp, LINE, FB Messenger......等。
+#### LINE
+
+* 貼圖多
 
 ## Trello
 
