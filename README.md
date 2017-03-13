@@ -24,6 +24,11 @@ Slack 是一套團體之間的「溝通平台」，與大家常用的 LINE 聊�
 
 ### 與其他通訊軟體的比較
 
+#### WhatsApp
+
+* 好用
+* 速度快
+
 比如說 WhatsApp, LINE, FB Messenger......等。
 
 ## Trello
